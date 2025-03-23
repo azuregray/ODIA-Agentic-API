@@ -1,3 +1,4 @@
-# O n &ensp; - &ensp; D e v i c e &emsp; A I
+# O n &ensp; - &ensp; D e v i c e &ensp; I n d e p e n d e n t &ensp; A I
 
-#### **`DESCRIPTION`** &ensp; Ability to run and prompt On-device AI Models usign Ollama and OpenWebUI with provision for CLI, GUI, API Interfaces for use in easy access from any same-device python-programs.
+#### **`DESCRIPTION`**  
+#### Imagine an LLM like ChatGPT from OpenAI or Google Gemini but working **Completely Offline** with **No Restrictions** at all. All with a **look-alike User Interface** using OpenWebUI but also an **On-Device AI API** that you can use to integrate any (Python, as of now) program you write with **a single kernel-level always-active agent** that can talk to the running program and make it more smarter or even correct itself.
